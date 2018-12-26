@@ -12,11 +12,11 @@ export default new Vuex.Store({
         count:0,
         storeSalaryList: [
             {
-                name: "马云",
+                name: "马化腾",
                 salaryAmount: 1000
             },
             {
-                name: "马化腾",
+                name: "雷军",
                 salaryAmount: 900
             },
             {
